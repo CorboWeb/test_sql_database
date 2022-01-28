@@ -1,4 +1,4 @@
---1
+-- altra modifica per generare conflitto
 create database pizzeria_da_luigi;
 
 --2
